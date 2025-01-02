@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oN9mzyAYY2maGLnc8urR/IECmtuF4aDIXI78++ocRpk=",
+  "Source": "TestToDoList.API",
+  "BasePath": "_content/TestToDoList.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

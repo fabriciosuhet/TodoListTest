@@ -1,0 +1,11 @@
+D:\projetos\TestToDoList\TestToDoList.Core\bin\Debug\net8.0\TestToDoList.Core.deps.json
+D:\projetos\TestToDoList\TestToDoList.Core\bin\Debug\net8.0\TestToDoList.Core.dll
+D:\projetos\TestToDoList\TestToDoList.Core\bin\Debug\net8.0\TestToDoList.Core.pdb
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.AssemblyInfoInputs.cache
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.AssemblyInfo.cs
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.csproj.CoreCompileInputs.cache
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.dll
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\refint\TestToDoList.Core.dll
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.pdb
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\ref\TestToDoList.Core.dll

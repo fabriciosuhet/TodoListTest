@@ -1,0 +1,17 @@
+D:\projetos\TestToDoList\TestToDoList.Infra\bin\Debug\net8.0\TestToDoList.Infra.deps.json
+D:\projetos\TestToDoList\TestToDoList.Infra\bin\Debug\net8.0\TestToDoList.Infra.runtimeconfig.json
+D:\projetos\TestToDoList\TestToDoList.Infra\bin\Debug\net8.0\TestToDoList.Infra.dll
+D:\projetos\TestToDoList\TestToDoList.Infra\bin\Debug\net8.0\TestToDoList.Infra.pdb
+D:\projetos\TestToDoList\TestToDoList.Infra\bin\Debug\net8.0\TestToDoList.Core.dll
+D:\projetos\TestToDoList\TestToDoList.Infra\bin\Debug\net8.0\TestToDoList.Core.pdb
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.csproj.AssemblyReference.cache
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.AssemblyInfoInputs.cache
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.AssemblyInfo.cs
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.csproj.CoreCompileInputs.cache
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDo.087CD83D.Up2Date
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.dll
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\refint\TestToDoList.Infra.dll
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.pdb
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.genruntimeconfig.cache
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\ref\TestToDoList.Infra.dll
