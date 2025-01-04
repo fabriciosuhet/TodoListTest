@@ -137,3 +137,4 @@ D:\projetos\TestToDoList\TestToDoList.API\bin\Debug\net8.0\TestToDoList.Applicat
 D:\projetos\TestToDoList\TestToDoList.API\bin\Debug\net8.0\FluentValidation.dll
 D:\projetos\TestToDoList\TestToDoList.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\projetos\TestToDoList\TestToDoList.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\projetos\TestToDoList\TestToDoList.API\obj\Debug\net8.0\TestToDoList.API.sourcelink.json

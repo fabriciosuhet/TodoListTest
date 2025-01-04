@@ -15,3 +15,4 @@ D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\refint\TestToDoList
 D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.pdb
 D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.genruntimeconfig.cache
 D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\ref\TestToDoList.Infra.dll
+D:\projetos\TestToDoList\TestToDoList.Infra\obj\Debug\net8.0\TestToDoList.Infra.sourcelink.json

@@ -13,3 +13,4 @@ D:\projetos\TestToDoList\TestToDoList.Application\obj\Debug\net8.0\TestToDoList.
 D:\projetos\TestToDoList\TestToDoList.Application\obj\Debug\net8.0\refint\TestToDoList.Application.dll
 D:\projetos\TestToDoList\TestToDoList.Application\obj\Debug\net8.0\TestToDoList.Application.pdb
 D:\projetos\TestToDoList\TestToDoList.Application\obj\Debug\net8.0\ref\TestToDoList.Application.dll
+D:\projetos\TestToDoList\TestToDoList.Application\obj\Debug\net8.0\TestToDoList.Application.sourcelink.json

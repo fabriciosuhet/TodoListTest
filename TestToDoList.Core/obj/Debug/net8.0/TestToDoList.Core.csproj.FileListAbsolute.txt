@@ -9,3 +9,4 @@ D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.dl
 D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\refint\TestToDoList.Core.dll
 D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.pdb
 D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\ref\TestToDoList.Core.dll
+D:\projetos\TestToDoList\TestToDoList.Core\obj\Debug\net8.0\TestToDoList.Core.sourcelink.json
